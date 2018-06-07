@@ -27,6 +27,11 @@
     "@ionic/schematics-angular": "latest",
     "core-js": "^2.5.3",
     "rxjs": "6.1.0",
+    "three": "^0.93.0",
+    "three-vrcontrols-module": "^2.2.1",
+    "three-vreffect-module": "^2.2.0",
+    "webvr-polyfill": "^0.10.6",
+    "webvr-ui": "^0.10.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
